@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ofs">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".PresentationLayer.RegistrarInformation"></activity>
+        <activity android:name=".PresentationLayer.RegistrarActivity" />
+        <activity android:name=".PresentationLayer.UpdateRegistrarActivity"
+            android:parentActivityName=".PresentationLayer.RegistrarInformation"/>
+        <activity android:name=".PresentationLayer.OfficeLogin"
+            android:parentActivityName=".PresentationLayer.LoginDashboard"/>
+        <activity
+            android:name=".PresentationLayer.StudentLogin"
+            android:parentActivityName=".PresentationLayer.LoginDashboard" />
+        <activity
+            android:name=".PresentationLayer.FormActivity"
+            android:parentActivityName=".PresentationLayer.StudentLogin" />
+        <activity
+            android:name=".PresentationLayer.AdmitCard"
+            android:parentActivityName=".PresentationLayer.PaymentActivity" />
+        <activity
+            android:name=".PresentationLayer.PaymentActivity"
+            android:parentActivityName=".PresentationLayer.FormActivity" />
+        <activity
+            android:name=".PresentationLayer.DepartmentActivity"
+            android:parentActivityName=".PresentationLayer.OfficeLogin" />
+
+        <activity android:name=".PresentationLayer.LoginDashboard">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PresentationLayer.AttendanceList"
+            android:parentActivityName=".PresentationLayer.DepartmentActivity" />
+        <activity
+            android:name=".PresentationLayer.EditAddOne"
+            android:parentActivityName=".PresentationLayer.AttendanceList" />
+    </application>
+
+</manifest>
