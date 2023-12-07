@@ -1,5 +1,6 @@
 ## Online-Form-Fillup-System
-For my undergraduate software engineering course, I created this application. It enables users to submit their examination forms online and pay right away. 
+For my undergraduate software engineering course, I created this application. It enables users to submit their examination forms online and pay right away. After payement, an admit card
+is generated automatically and student can download the generated admit card.
 
 
 ## Screenshots
