@@ -24,3 +24,36 @@ For my undergraduate software engineering course, I created this application. It
   <img src="https://i.ibb.co/C99kDJ8/262025935-667784477934357-2632258170598957108-n.png" alt="patient dashboard" style="width: 60%; margin-right: 2%;">
   
 </p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center" style="margin-bottom: 60px">
+  <img src="https://i.ibb.co/ByBkhgm/Whats-App-Image-2023-12-07-at-10-37-32-PM.jpg" alt="patient dashboard" style="width: 60%; margin-right: 2%;">
+  
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center" style="margin-bottom: 60px">
+  <img src="https://i.ibb.co/0nML0NQ/Whats-App-Image-2023-12-07-at-10-37-32-PM-1.jpg" alt="login" style="width: 60%; margin-right: 2%;">
+  
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center" style="margin-bottom: 60px">
+  <img src="https://i.ibb.co/z8mTbfG/Whats-App-Image-2023-12-07-at-10-37-34-PM.jpg" alt="login" style="width: 60%; margin-right: 2%;">
+  
+</p>
