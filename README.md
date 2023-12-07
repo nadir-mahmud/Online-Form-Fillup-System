@@ -21,6 +21,6 @@ For my undergraduate software engineering course, I created this application. It
 <br>
 
 <p align="center" style="margin-bottom: 60px">
-  <img src="https://i.ibb.co/93GPRCm/Whats-App-Image-2023-12-07-at-8-52-34-PM-1.jpg" alt="patient dashboard" style="width: 40%; margin-right: 2%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/7YPSbvk/Whats-App-Image-2023-12-07-at-8-52-35-PM.jpg" alt="doctor" style="width: 40%;">
+  <img src="https://i.ibb.co/C99kDJ8/262025935-667784477934357-2632258170598957108-n.png" alt="patient dashboard" style="width: 60%; margin-right: 2%;">
+  
 </p>
